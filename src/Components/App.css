@@ -22,3 +22,10 @@ nav{
 li, #logo{
   cursor: pointer;
 }
+
+.thumbnail{
+  margin: 10px;
+  cursor: pointer;
+  width: max-content;
+  display: inline-block;
+}
